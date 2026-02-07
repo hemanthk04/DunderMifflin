@@ -18,13 +18,13 @@ const Contact = () => {
 
             <input
               type="text"
-              placeholder="Company Name"
+              placeholder="Your Company Name"
               className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-black transition"
             />
 
             <input
               type="text"
-              placeholder="Phone Number"
+              placeholder="Enter your Email"
               className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-black transition"
             />
 
